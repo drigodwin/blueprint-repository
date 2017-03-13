@@ -3,7 +3,7 @@
 - {repository: "https://github.com/andreaturli/brooklyn-kibana"}
 - {repository: "https://github.com/tbouron/brooklyn-gitlab"}
 - {repository: "https://github.com/cloudsoft/jmeter-entity"}
-- {repository: "https://github.com/drigodwin/brooklyn-elasticsearch", branch: "testBranch", parentId: "elasticsearch"}
+- {repository: "https://github.com/drigodwin/brooklyn-elasticsearch", branch: "add-auth", parentId: "elasticsearch"}
 - {repository: "https://github.com/brooklyncentral/brooklyn-spark", parentId: "spark-cluster-template"}
 - {repository: "https://github.com/johnmccabe/brooklyn-minecraft"}
 - {repository: "https://github.com/cloudsoft/consul"}
